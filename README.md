@@ -1,8 +1,5 @@
 ### Hi there 👋
-### and here is my stats
-  <img src="https://github-readme-stats.vercel.app/api?username=hanhafizh&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanhafizh&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhafizh&layout=compact&theme=monokai&langs_count=12"/><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhafizh&layout=compact&theme=monokai&langs_count=12"/><br />
 <!--
 **hanhafizh/hanhafizh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
