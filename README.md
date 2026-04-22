@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhafizh&layout=compact&theme=monokai&langs_count=12"/><br />
 <!--
 **hanhafizh/hanhafizh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
