@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=hanhafizh&color=grey)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhafizh&layout=compact&theme=monokai&langs_count=12"/><br />
 <!--
 **hanhafizh/hanhafizh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
