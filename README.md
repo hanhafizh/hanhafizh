@@ -1,5 +1,7 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=hanhafizh&color=grey)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hanhafizh&style=for-the-badge">
+</a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhafizh&layout=compact&theme=monokai&langs_count=12"/><br />
 <!--
